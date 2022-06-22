@@ -1,3 +1,6 @@
 [submodule "EmuNoC-SW"]
 	path = EmuNoC-SW
 	url = https://github.com/yangyt96/EmuNoC-SW
+[submodule "EmuNoC-HW"]
+	path = EmuNoC-HW
+	url = https://github.com/yangyt96/EmuNoC-HW
