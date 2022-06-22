@@ -1,0 +1,3 @@
+[submodule "EmuNoC-SW"]
+	path = EmuNoC-SW
+	url = https://github.com/yangyt96/EmuNoC-SW
